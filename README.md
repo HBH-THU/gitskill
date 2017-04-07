@@ -1,2 +1,2 @@
 Creating a new branch is quick.
-A strange problem happends.
+Creating a new branch is quick & simple.
